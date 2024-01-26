@@ -41,3 +41,7 @@
 [Sergio](sley3.github.io)
 
 [Kagipp](https://kagipp.github.io/)
+
+[Maya Luther](https://mgluther.github.io/)
+
+[mdem6](https://mdem6.github.io/)
