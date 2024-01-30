@@ -30,7 +30,7 @@
 
 [bsshulman](https://bsshulman.github.io)
 
-[JordanFH](jfasoltholmes.github.io)
+[JordanFH](https://jfasoltholmes.github.io)
 
 [Olivia S.](https://oeschutz-data352w.github.io/)
 
