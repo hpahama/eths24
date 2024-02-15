@@ -2,7 +2,7 @@
 ## Repository Manager
 [cd-public](https://cd-public.github.io/)
 ## Contributors
-[hpahama](https://hpahama.github.io)
+[hpahama]([https://hpahama.github.io/)
 
 [Zagreb](https://zagreb-ethf23.github.io/)
 
